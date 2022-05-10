@@ -1,0 +1,6 @@
+- Hi, I’m paulo, a brazilian student
+- I’m interested in game development, learn how to draw, and how to be multiversatile in many areas
+- I’m currently learning python, c++, how to use godot and other tools to development and art and sounds softwares.
+- currently using construct 2 v277 because of my college
+- I’m looking to collaborate on...i just want to improve myself now
+- How to reach me, discord: jacarézinho#1088
